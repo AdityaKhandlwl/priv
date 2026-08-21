@@ -1,22 +1,36 @@
 class Solution {
-  public int maxSumMinProduct(int[] nums) {
-    final int MOD = 1_000_000_007;
-    long ans = 0;
-    Deque<Integer> stack = new ArrayDeque<>();
-    long[] prefix = new long[nums.length + 1];
+    public int maxSumMinProduct(int[] nums) {
+        int n = nums.length;
 
-    for (int i = 0; i < nums.length; ++i)
-      prefix[i + 1] = prefix[i] + nums[i];
+        long[] prefix = new long[n + 1];
 
-    for (int i = 0; i <= nums.length; ++i) {
-      while (!stack.isEmpty() && (i == nums.length || nums[stack.peek()] > nums[i])) {
-        final int minVal = nums[stack.pop()];
-        final long sum = stack.isEmpty() ? prefix[i] : prefix[i] - prefix[stack.peek() + 1];
-        ans = Math.max(ans, minVal * sum);
-      }
-      stack.push(i);
+        for (int i = 0; i < n; i++) {
+            prefix[i + 1] = prefix[i] + nums[i];
+        }
+
+        Stack<Integer> stack = new Stack<>();
+        long ans = 0;
+
+        for (int i = 0; i <= n; i++) {
+
+            while (!stack.isEmpty() &&
+                   (i == n || nums[stack.peek()] > nums[i])) {
+
+                int mid = stack.pop();
+
+                int left = stack.isEmpty() ? 0 : stack.peek() + 1;
+                int right = i - 1;
+
+                long sum = prefix[right + 1] - prefix[left];
+
+                ans = Math.max(ans, sum * nums[mid]);
+            }
+
+            if (i < n) {
+                stack.push(i);
+            }
+        }
+
+        return (int)(ans % 1_000_000_007);
     }
-
-    return (int) (ans % MOD);
-  }
 }
