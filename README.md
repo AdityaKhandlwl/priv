@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
+| [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -13,6 +14,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
@@ -47,4 +49,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaKhandlwl/priv/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
