@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
@@ -14,6 +15,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
