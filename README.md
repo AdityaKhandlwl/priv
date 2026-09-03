@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
@@ -15,6 +16,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/AdityaKhandlwl/priv/tree/master/3794-reverse-string-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
