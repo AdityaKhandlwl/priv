@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
 | [0525-contiguous-array](https://github.com/AdityaKhandlwl/priv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
@@ -83,4 +84,12 @@
 | [0525-contiguous-array](https://github.com/AdityaKhandlwl/priv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
