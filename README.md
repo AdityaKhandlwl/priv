@@ -7,6 +7,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
@@ -18,6 +19,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
@@ -77,4 +79,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
