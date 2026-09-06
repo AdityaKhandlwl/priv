@@ -11,6 +11,7 @@
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/AdityaKhandlwl/priv/tree/master/0986-interval-list-intersections) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
@@ -74,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0986-interval-list-intersections](https://github.com/AdityaKhandlwl/priv/tree/master/0986-interval-list-intersections) |
 | [3794-reverse-string-prefix](https://github.com/AdityaKhandlwl/priv/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/AdityaKhandlwl/priv/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
