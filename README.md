@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AdityaKhandlwl/priv/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0435-non-overlapping-intervals) |
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0435-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
