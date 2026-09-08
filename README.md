@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AdityaKhandlwl/priv/tree/master/0057-insert-interval) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AdityaKhandlwl/priv/tree/master/0304-range-sum-query-2d-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/AdityaKhandlwl/priv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
@@ -23,6 +24,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AdityaKhandlwl/priv/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/AdityaKhandlwl/priv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
@@ -113,8 +115,13 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AdityaKhandlwl/priv/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AdityaKhandlwl/priv/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
