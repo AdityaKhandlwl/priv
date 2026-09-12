@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AdityaKhandlwl/priv/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityaKhandlwl/priv/tree/master/0304-range-sum-query-2d-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/AdityaKhandlwl/priv/tree/master/0525-contiguous-array) |
@@ -71,11 +72,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 ## Cartesian Tree
 |  |
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityaKhandlwl/priv/tree/master/0304-range-sum-query-2d-immutable) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
