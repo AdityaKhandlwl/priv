@@ -14,6 +14,7 @@
 | [0525-contiguous-array](https://github.com/AdityaKhandlwl/priv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/AdityaKhandlwl/priv/tree/master/0835-image-overlap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/AdityaKhandlwl/priv/tree/master/0986-interval-list-intersections) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityaKhandlwl/priv/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/AdityaKhandlwl/priv/tree/master/0835-image-overlap) |
 ## Simulation
 |  |
 | ------- |
