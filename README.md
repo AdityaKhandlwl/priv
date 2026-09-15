@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaKhandlwl/priv/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0056-merge-intervals) |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaKhandlwl/priv/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AdityaKhandlwl/priv/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaKhandlwl/priv/tree/master/0344-reverse-string) |
@@ -121,6 +123,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaKhandlwl/priv/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaKhandlwl/priv/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
