@@ -89,12 +89,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/AdityaKhandlwl/priv/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaKhandlwl/priv/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/AdityaKhandlwl/priv/tree/master/0986-interval-list-intersections) |
 | [3794-reverse-string-prefix](https://github.com/AdityaKhandlwl/priv/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AdityaKhandlwl/priv/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaKhandlwl/priv/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/AdityaKhandlwl/priv/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
