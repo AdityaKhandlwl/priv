@@ -73,6 +73,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdityaKhandlwl/priv/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
@@ -98,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdityaKhandlwl/priv/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AdityaKhandlwl/priv/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaKhandlwl/priv/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/AdityaKhandlwl/priv/tree/master/3794-reverse-string-prefix) |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdityaKhandlwl/priv/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
