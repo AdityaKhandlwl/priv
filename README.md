@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaKhandlwl/priv/tree/master/0023-merge-k-sorted-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaKhandlwl/priv/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,12 +79,14 @@
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaKhandlwl/priv/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaKhandlwl/priv/tree/master/2487-remove-nodes-from-linked-list) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaKhandlwl/priv/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaKhandlwl/priv/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
