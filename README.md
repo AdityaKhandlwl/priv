@@ -17,6 +17,7 @@
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/AdityaKhandlwl/priv/tree/master/0835-image-overlap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
+| [0946-validate-stack-sequences](https://github.com/AdityaKhandlwl/priv/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/AdityaKhandlwl/priv/tree/master/0986-interval-list-intersections) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
@@ -78,6 +79,7 @@
 | [0020-valid-parentheses](https://github.com/AdityaKhandlwl/priv/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaKhandlwl/priv/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaKhandlwl/priv/tree/master/0084-largest-rectangle-in-histogram) |
+| [0946-validate-stack-sequences](https://github.com/AdityaKhandlwl/priv/tree/master/0946-validate-stack-sequences) |
 | [1856-maximum-subarray-min-product](https://github.com/AdityaKhandlwl/priv/tree/master/1856-maximum-subarray-min-product) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AdityaKhandlwl/priv/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaKhandlwl/priv/tree/master/0054-spiral-matrix) |
+| [0946-validate-stack-sequences](https://github.com/AdityaKhandlwl/priv/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
