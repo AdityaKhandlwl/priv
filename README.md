@@ -16,6 +16,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKhandlwl/priv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaKhandlwl/priv/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/AdityaKhandlwl/priv/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaKhandlwl/priv/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdityaKhandlwl/priv/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/AdityaKhandlwl/priv/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AdityaKhandlwl/priv/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -162,4 +163,12 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/AdityaKhandlwl/priv/tree/master/2487-remove-nodes-from-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaKhandlwl/priv/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaKhandlwl/priv/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
